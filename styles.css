@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+img{
+    background-color: blueviolet;
+    width: 30%;
+}
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
+}
+#heading{
+    color: blue;
+}
+.circular{
+    border-radius: 100%;
+}
